@@ -6,3 +6,7 @@ This is a demo repository for GEOG 510
 ## Usage
 
 You can use this to practice.
+
+This is **bold**
+
+This is *italic*
